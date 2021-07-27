@@ -1,5 +1,10 @@
 apple 
 grapes
 watermelon
+<<<<<<< HEAD
 strawberry
 lichie
+=======
+mango
+pomogranate
+>>>>>>> master

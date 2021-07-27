@@ -1,2 +1,3 @@
 spinach 
 tomato
+potato
